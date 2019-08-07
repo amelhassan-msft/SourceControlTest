@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "0ce083bf-0e8e-49af-a465-d35b15894c23",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.14.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=amelgraphbindings;AccountKey=JFMlZRCLhbwj2yPsrv1JjIUtRhNign7hdcfuJnozrUUarFUD4DYr+Nq/ASqynDEV/GBv4W9QPt01EahQpXAGIA==",
+    "WEBSITE_CONTENTSHARE": "amelsourcecontrola81b",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "amelsourcecontrol",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=amelgraphbindings;AccountKey=JFMlZRCLhbwj2yPsrv1JjIUtRhNign7hdcfuJnozrUUarFUD4DYr+Nq/ASqynDEV/GBv4W9QPt01EahQpXAGIA=="
+  }
+}
